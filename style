@@ -1,0 +1,7 @@
+.nav-one{
+	background-color:green;
+	border-color:green;
+	border-width:100%;
+	border-style:groove;
+	height:30px;
+}
